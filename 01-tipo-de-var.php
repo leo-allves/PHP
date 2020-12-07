@@ -7,5 +7,3 @@ $idade = 90; // inteiro
 $dormindo = true;  //ou false chama-se booblean
 $vazia = null; // variável vazia
 $sobrenome = ''; // string vazia;
-
-
